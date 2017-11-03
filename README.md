@@ -1,1 +1,1 @@
-# protorype
+# prototype
